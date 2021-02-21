@@ -1,6 +1,9 @@
 # **Kickstarting with Excel**
+*A Detailed Analysis of Arithmatic & Statistical Findings: Key Performance Trends, Visualizations, and Recommendations*
 
 ## Overview of Project
+---
+The purpose of the following project was to complete 
 
 ### Purpose
 
@@ -29,7 +32,6 @@
 - What are some other possible tables and/or graphs that we can create?
 
 
-*A Detailed Analysis of Arithmatic & Statistical Findings: Key Performance Trends, Visualizations, and Recommendations*
 
 #### Recommendations for Louise
 1.
