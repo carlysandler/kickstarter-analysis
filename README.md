@@ -3,7 +3,11 @@
 
 ## Overview of Project
 ---
-The purpose of the following project was to complete a thourough analysis on a Kickstart Crowdfunding data set. The data set and brief was provded by Louise, whom required the help of an analyst, to understand the relativity of her personal fundraising success. Her play _Fever_, quickly received enough pledges from the Kickstarter community to come close to her fundraising goal.
+The purpose of the following project was to complete a thourough analysis on a Kickstart Crowdfunding data set, a sample population of 4000+ campaigns of varying categories and subgategories--performance is measured by the correlation between launch date and funding goals. 
+
+The data set and brief was provded by Louise, whom required the help of an analyst to understand the relativity of her personal fundraising success as her play, _Fever_, quickly received a large enough percentage of pledges to accomplish her fundraiding goal. 
+
+The following process delinates the process of completing the brief and providing insights to Louise:
 
   - 1) manipulate a raw data set, a population sample of and perfrom 
 
