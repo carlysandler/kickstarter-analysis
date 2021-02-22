@@ -3,7 +3,9 @@
 
 ## Overview of Project
 ---
-The purpose of the following project was to complete 
+The purpose of the following project was to complete a thourough analysis on a Kickstart Crowdfunding data set. The data set and brief was provded by Louise, whom required the help of an analyst, to understand the relativity of her personal fundraising success. Her play _Fever_, quickly received enough pledges from the Kickstarter community to come close to her fundraising goal.
+
+  - 1) manipulate a raw data set, a population sample of and perfrom 
 
 ### Purpose
 
