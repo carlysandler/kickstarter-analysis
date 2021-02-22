@@ -34,11 +34,14 @@ __Analysis Resources and Deliverables:__
  ---
 ### Analysis of Outcomes Based on Launch Date
 
-The line graph below shows the relationship between the Kickstarter campaign Launch Date, defined by the specific month the campaign launched in a 12 month calendar year. There are no subfilters on year, we are specifically looking at the correlation between the month of the launch date and the count of potential campaign outcomes, defined by: sucessful, failed, or canceled  categorized by month of launch date. Louise specifically interested in the "theater" parent category because her play belongs to this parent category. 
+The line graph below shows the relationship between the Kickstarter campaign Launch Date, defined by the specific month the campaign launched in a 12 month calendar year. There are no subfilters on year, we are specifically looking at the correlation between the month of the launch date and the count of potential campaign outcomes, defined by: sucessful, failed, or canceled  categorized by month of launch date.  Louise specifically interested in the "theater" parent category because her play belongs to this parent category. 
 
 - ![Theater_Outcomes_vs_Launch](C:\Users\carly\OneDrive\Desktop\data_bootcamp\analysis_projects\crowdfunding_analysis\challenge deliverables\Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+
+The next line graph, shown below, visualizes the relationship between the sub Category, plays, and the outcomes of the initial goal amounts (in dollars) of the respective campaigns that are defined as "plays" as well. Here we can get a more drilled down, bottoms up, analysis that bears a greater external validity than the "Outcomes Based on Launch Date" graph.
+
 - ![Outcomes_vs_Goals](C:\Users\carly\OneDrive\Desktop\data_bootcamp\analysis_projects\crowdfunding_analysis\challenge deliverables\Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
