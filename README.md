@@ -46,11 +46,18 @@ The next line graph, shown below, visualizes the relationship between the sub Ca
 
 ### Challenges and Difficulties Encountered
 
+Because I have 3+ years of professional experience working in excel as a data analyst in the fashion industry, I did not experience any challenges when completing the analysis; however, if I were a novel data analyst, I could predict a few challenges that one would encounter. 
+
+  For example, custom sorting and formatting pivot tables and subsequent pivot charts can be frustrating if the following due-delligence is not completed prior to conducting the analysis through these tools:
+  - Formatting the "kickstarter" worksheet without proper variable headings, number format values, and formulas without dynamic array movement can make the pivot table either always unexacutable, or incorrect--if you expect to find a count and the excel defauls the function as an average or percentage, depending on how you inputed the data and formatted it in the first place, you will find youtself with wrongly calcuated data. This puts you at major risk of providing false insights, or conflated statistics, making your recommendations null and void.
+  - From a pivot chart perspective, if the data variables in question are incorrectly populated in tghe first place (i.e. rows vs coulumns or x axis vs y axis), the visualization of the data and the implied relational conclusion can be misguided, especially if you are implying causation.
+
 ## Results
+- Looking at Outcomes Based on Lanch Date, I can conclude that peak sucess of theater campaigns occurs in Q2, starting in April, with the max number of successful campaigns occuring in May, and constantly decreasing until September. I can also conclude that there are at least 26% more successful theater Kickstarter campaigns in totality compared to the number of failed theather campaigns, leading me to question the caustion of this relationship.
 
-- What are the two conclusions you can draw about the Outcomes based on Launch Date?
+- Looking at Outcomes Based on Goals, the maxium number of failed campaigns for plays occured when the campaign goal was between $1000 and $4999, but this can be interpreted miscorrectly as a causation, when this data does not tell us enough about the statistical signficance of this data point, rather it is the median, which can only justly be infered to occur because the 1000 to 4999 goal is the most popular kickstarter goal in the plays subcategory--we can see that we can also say the same about the max number of successful campaigns. Another findiging is that although there is the greatest number of data points within the 1000 to 4999 goal range, play campaigns are least likely to fail if they have goals at 4999 or less. 
 
-- What can you conclude about the Outcomes based on Goals?
+-Besides the limitation of unknown causation described above, another limitation of the dataset is that we define launch date in the analysis as month, and we do not adjust our analysis to weigh the importance of quarterly or annual performance comp trends. We cannot give Louise a confident caustation of camaign outcomes based on launch date when within the definition of launch date, extraneous variables such as cyclical ecoonomic impacts and social media's marketing influence and influx of exposure in the later half of the 2010s. This could definitely skew the dataset and clutter the analysis to not probably compare at a net net level, the KPIs in subject.
 
 - What are some limitations of this dataset?
 
